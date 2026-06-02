@@ -1,5 +1,5 @@
 ---
-name: Bug report
+name: Report issue
 about: Create a report to help us improve
 title: ''
 labels: ''
@@ -8,10 +8,4 @@ type: Bug
 
 ---
 
-**Describe the bug**
 
-**To Reproduce**
-
-**Expected behavior**
-
-**Screenshots**
